@@ -1,0 +1,4 @@
+Host host
+HostName eniac.seas.upenn.edu
+User fstrain
+IdentityFile ~/.ssh/id_rsa
